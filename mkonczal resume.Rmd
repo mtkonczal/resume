@@ -1,0 +1,62 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+geometry: margin=.7in
+
+title: "Resume"
+author: Mike Konczal
+
+fontawesome: yes
+email: konczal@gmail.com
+github: mtkonczal
+web: mikekonczal.com
+twitter: rortybomb
+#phone: "+1 234 567 8999"
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+---
+\pagenumbering{gobble}
+# Experience 
+
+**Director,** Roosevelt Institute, New York, NY \hfill 2019 - current
+
+- Director of the Macroeconomic Analysis program, leading the Institute’s research and analysis on the recovery, full employment, and overall state of the economy.
+- Supervises 5 researchers and staff in creating original research, meeting grant deliverables, and communicating economic arguments to the public. Regularly briefs legislators and policymakers on our own work.
+- Designs, maintains, and executes economic research in R and Stata, including analysis of monthly economics data from government agencies. Topics include wages, employment, and inflation.
+- Serves as a resource for journalists, media, and the broader public. Cited as an
+expert in hundreds of press articles, with dozens of appearances on television and radio. Writes for publications such as *The New York Times*, *Washington Post*, and *Vox*.
+
+**Fellow,** Roosevelt Institute, New York, NY \hfill 2010-2018
+
+- Managed projects on financial reform, corporate governance, inequality, economic recovery, and new economic paradigms. Written over 15 white papers, ranging from policy briefs to original research.
+- Edited four volumes of reports, three on financial reform and one on corporate sector reform. Co-authored, with Joseph Stiglitz, a book on economic inequality.
+- Designed, secured funding for, and carried out research supported by several in- stitutions, including the Ewing Marion Kauffman Foundation, Ford Foundation, Hewlett Foundation, and Open Philanthropy Project.
+
+**Financial Engineer,** Moody’s KMV, San Francisco, CA\hfill 2007 - 2009
+
+- Created testing benchmarks for the Moody’s KMV credit risk model. Worked with RiskFrontier software over 5 system releases, testing models of credit risk,
+capital requirements, stress testing, and loss reserving.
+- Prototyped research algorithms covering options-based credit risk pricing in R, SAS, Matlab and Excel VB. Automated the collection and analysis of data that reduced test execution time by 40 percent. Assisted with support to clients.
+
+**Senior Test Engineer,** Motorola, Schaumburg, IL \hfill 2001-2005
+
+- Directed the execution of performance, load, and stress testing in a box test unit across four major system releases of the iDEN phone network. Awarded Motorola BRAVO Award (11/04) for “above and beyond performance contribution.”
+- Trained 6 employees in the methods used for load and stress testing. Managed interns and contractors in executing test cycles.
+
+# Education
+
+**M.S. Finance, University of Illinois at Urbana-Champaign** \hfill 2007
+
+- Completed PhD-level coursework in microeconomics, econometrics, and empirical finance.
+
+**B.A. Mathematics and Computer Science, University of Illinois at Urbana-Champaign** \hfill 2001
+
+_Full C.V. available upon request._

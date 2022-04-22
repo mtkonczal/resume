@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  21 APR 2022 21:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 APR 2022 10:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -437,65 +437,70 @@ LaTeX Info: Redefining \nameref on input line 105.
 \openout3 = `mkonczal-resume.out'.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 131.
+ut line 133.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-31.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-131.
+133.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-131.
+133.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-131.
+133.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-131.
+133.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-131.
+133.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 131.
+(Font)              scaled to size 11.40997pt on input line 133.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 131.
+(Font)              scaled to size 8.33606pt on input line 133.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 131.
+(Font)              scaled to size 6.25204pt on input line 133.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 131.
+(Font)              scaled to size 11.40997pt on input line 133.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 131.
+(Font)              scaled to size 8.33606pt on input line 133.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 131.
+(Font)              scaled to size 6.25204pt on input line 133.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+33.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
 LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
-nput line 131.
+nput line 133.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
+LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
+ut line 133.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
+File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
+)
 LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
-150.
+152.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) 
@@ -503,36 +508,37 @@ AED: lastpage setting LastPage
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 238.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
 (./mkonczal-resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 238.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 238.
 Package rerunfilecheck Info: File `mkonczal-resume.out' has not changed.
 (rerunfilecheck)             Checksum: 9D42CFD74D90ED11162BCAAAC77EDD92;183.
  ) 
 Here is how much of TeX's memory you used:
- 14121 strings out of 480608
- 204896 string characters out of 5903631
+ 14134 strings out of 480608
+ 205293 string characters out of 5903631
  494959 words of memory out of 5000000
- 29717 multiletter control sequences out of 15000+600000
- 561128 words of font info for 121 fonts, out of 8000000 for 9000
+ 29725 multiletter control sequences out of 15000+600000
+ 561444 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,11n,52p,1204b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/l
-ocal/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/loc
-al/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr
-/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><
-/usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/loc
-al/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local
-/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texliv
-e/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/
-texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on mkonczal-resume.pdf (1 page, 96939 bytes).
+exlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/loc
+al/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/u
+sr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr
+/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.p
+fb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr
+/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/l
+ocal/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/te
+xlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2
+020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on mkonczal-resume.pdf (1 page, 97181 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 62 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  16401 words of extra memory for PDF output out of 17280 (max. 10000000)
 

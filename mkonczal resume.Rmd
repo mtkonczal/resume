@@ -43,8 +43,7 @@ expert in hundreds of press articles, with dozens of appearances on television a
 
 **Financial Engineer,** Moody’s KMV, San Francisco, CA\hfill 2007 - 2009
 
-- Created testing benchmarks for the Moody’s KMV credit risk model. Worked with RiskFrontier software over 5 system releases, testing models of credit risk,
-capital requirements, stress testing, and loss reserving.
+- Created testing benchmarks for the Moody’s KMV credit risk model, which used the Vasicek-Kealhofer model built out of a Black-Scholes-Merton framework. Worked with RiskFrontier software over 5 system releases, testing models of capital requirements, stress testing, and loss reserving.
 - Prototyped research algorithms covering options-based credit risk pricing in R, SAS, Matlab and Excel VB. Automated the collection and analysis of data that reduced test execution time by 40 percent. Assisted with support to clients.
 
 **Senior Test Engineer,** Motorola, Schaumburg, IL \hfill 2001-2005

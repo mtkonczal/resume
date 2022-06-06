@@ -31,7 +31,7 @@ urlcolor: blue
 
 - Director of the Macroeconomic Analysis program, leading the Institute’s research and analysis on the recovery, full employment, and overall state of the economy.
 - Supervises 5 researchers and staff in creating original research, meeting grant deliverables, and communicating economic arguments to the public. Regularly briefs legislators and policymakers on our own work.
-- Designs, maintains, and executes economic research in R and Stata, including analysis of monthly economics data from government agencies. Topics include wages, employment, and inflation.
+- Designs, maintains, and executes economic research, including analysis of monthly data such as employment and inflation. Received R Data Scientist programming certification from Datacamp.
 - Serves as a resource for journalists, media, and the broader public. Cited as an
 expert in hundreds of press articles, with dozens of appearances on television and radio. Writes for publications such as *The New York Times*, *Washington Post*, and *Vox*.
 

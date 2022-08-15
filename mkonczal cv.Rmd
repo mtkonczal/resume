@@ -26,29 +26,29 @@ urlcolor: blue
 ---
 # Experience 
 
+
 **Director,** Roosevelt Institute, New York, NY \hfill 2019 - current
 
-- Director of the Macroeconomic Analysis program, leading the Institute’s research and analysis on the recovery, full employment, and overall state of the economy.
-- Supervises 5 researchers and staff in creating original research, meeting grant deliverables, and communicating economic arguments to the public. Regularly briefs legislators and policymakers on our own work.
-- Designs, maintains, and executes economic research, including analysis of monthly data such as employment and inflation. Received R Data Scientist programming certification from Datacamp.
-- Serves as a resource for journalists, media, and the broader public. Cited as an
-expert in hundreds of press articles, with dozens of appearances on television and radio. Writes for publications such as *The New York Times*, *Washington Post*, and *Vox*.
+- Director of Macroeconomic Analysis at the Roosevelt Institute, a policy think tank, leading our research and analysis on the recovery, full employment, and overall state of the economy.
+- Supervises 4 researchers and staff in creating original research, meeting deliverables, and communicating economic arguments to the public. Regularly briefs legislators and policymakers.
+- Designs and executes economic research in R, including analysis of monthly data such as inflation, GDP, and the jobs numbers. Received R Data Scientist programming certification from *Datacamp*.
+- Serves as a resource for journalists, media, and the broader public. Cited as an expert in hundreds of press articles, with dozens of appearances on television, such as *CBS Sunday Morning* and *Washington Journal*. Writes for publications such as *The New York Times* and the *Washington Post*.
 
 **Fellow,** Roosevelt Institute, New York, NY \hfill 2010-2018
 
 - Managed 3 multiyear research and policy teams, with projects on economic recovery, corporate governance, inequality, and creating new economic paradigms. Headed our policy work on financial reform, including the passage and implementation of the Dodd-Frank Act.
-- Written over 15 white papers, ranging from original research to public policy briefs. Edited four volumes of reports, three on financial reform and one on corporate sector reform. Co-authored, with Joseph Stiglitz, a book on economic inequality.
+- Written dozens of white papers, ranging from original research to public policy briefs. Edited four volumes of reports, three on financial reform and one on corporate sector reform. Co-authored, with Joseph Stiglitz, a book on economic inequality.
 - Designed, secured funding for, and carried out research supported by several institutions, including the Ewing Marion Kauffman Foundation, Ford Foundation, Hewlett Foundation, and Open Philanthropy Project.
 
 **Financial Engineer,** Moody’s KMV, San Francisco, CA\hfill 2007 - 2009
 
-- Created testing benchmarks for the Moody’s KMV credit risk model, which used the Vasicek-Kealhofer model built out of a Black-Scholes-Merton framework. Worked with RiskFrontier software over 5 system releases, testing models of capital requirements, stress testing, and loss reserving.
+- Created testing benchmarks for the Moody’s KMV Vasicek-Kealhofer credit risk model, built on a Black-Scholes-Merton framework. Worked with RiskFrontier software over 5 system releases, testing models of capital requirements, stress testing, and loss reserving.
 - Prototyped research algorithms covering options-based credit risk pricing in R, SAS, Matlab and Excel VB. Automated the collection and analysis of data that reduced test execution time by 40 percent. Assisted with support to clients.
 
 **Senior Test Engineer,** Motorola, Schaumburg, IL \hfill 2001-2005
 
-- Directed the execution of performance, load, and stress testing in a box test unit across four major system releases of the iDEN phone network. Awarded Motorola BRAVO Award (11/04) for “above and beyond performance contribution.”
-- Trained 6 employees in the methods used for load and stress testing. Managed interns and contractors in executing test cycles.
+- Directed the execution of performance, load, and stress testing in a box test unit across four major system releases of the iDEN phone network, using Python, Perl, and SQL. Awarded Motorola BRAVO Award (11/04) for “above and beyond performance contribution.”
+- Designed test cases to achieve Six Sigma quality levels. Trained 6 employees in the methods used for load and stress testing. Managed interns and contractors in executing test cycles.
 
 # Education
 
@@ -125,7 +125,9 @@ _Washington Post, Wonkblog_, Weekly Columnist.\hfill 2013-2014
 
 [“The Voluntarism Fantasy.”](https://democracyjournal.org/magazine/32/the-voluntarism-fantasy/) _Democracy Journal_, March 1st, 2014.
 
-# Select Talks and Podcasts
+# Select Talks and Interviews
+
+["Are Corporate Profits Driving Inflation?"](https://www.cbsnews.com/video/are-corporate-profits-driving-inflation/) _CBS Sunday Morning_, July 10th, 2022.
 
 "Why Freedom Requires Keeping Us Free From the Market." The Havens Wright Center for Social Justice, University of Wisconsin, Madison, October 14, 2021.
 

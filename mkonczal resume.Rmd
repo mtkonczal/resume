@@ -31,7 +31,7 @@ urlcolor: blue
 
 - Director of Macroeconomic Analysis at the Roosevelt Institute, a policy think tank, leading our research and analysis on the recovery, full employment, and overall state of the economy.
 - Supervises 4 researchers and staff in creating original research, meeting deliverables, and communicating economic arguments to the public. Regularly briefs legislators and policymakers.
-- Designs and executes economic research in R, including analysis of monthly data such as inflation, GDP, and the jobs numbers. Received R Data Scientist programming certification from *Datacamp*.
+- Designs and executes economic research in R, including analysis of monthly data such as inflation, GDP, and the jobs numbers. Earned a professional data scientist certification from *Datacamp*.
 - Serves as a resource for journalists, media, and the broader public. Cited as an expert in hundreds of press articles, with dozens of appearances on television, such as *CBS Sunday Morning* and *Washington Journal*. Writes for publications such as *The New York Times* and the *Washington Post*.
 
 **Fellow,** Roosevelt Institute, New York, NY \hfill 2010-2018

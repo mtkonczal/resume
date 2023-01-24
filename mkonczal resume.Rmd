@@ -12,7 +12,7 @@ fontawesome: yes
 email: konczal@gmail.com
 github: mtkonczal
 web: mikekonczal.com
-twitter: rortybomb
+twitter: mtkonczal
 city_name: Takoma Park, MD
 #phone: "+1 234 567 8999"
 updated: no
@@ -25,20 +25,20 @@ fontsize: 11pt
 urlcolor: blue
 ---
 \pagenumbering{gobble}
+# Career Highlights
+
+- A leader on economic policymaking, guiding the debates around economic inequality, recessions and recoveries, and financial reform over the past decade.
+- A researcher contributing original empirical analysis on topics ranging from inflation metrics to banking regulations. Directed teams of researchers investigating the economic questions of the day.
+- A writer and public advocate who can translate and communicate to both experts and the public. Cited in hundreds of press articles, with dozens of media appearances, such as *CBS Sunday Morning* and *Washington Journal*. Published author who has written for publications such as *The New York Times* and the *Washington Post*.
+
 # Experience 
 
-**Director,** Roosevelt Institute, New York, NY \hfill 2019 - current
+**Director,** Roosevelt Institute, New York, NY \hfill 2010 - current
 
-- Director of Macroeconomic Analysis at the Roosevelt Institute, a policy think tank, leading our research and analysis on the recovery, full employment, and overall state of the economy.
-- Supervises 4 researchers and staff in creating original research, meeting deliverables, and communicating economic arguments to the public. Regularly briefs legislators and policymakers.
-- Designs and executes economic research in R, including analysis of monthly data such as inflation, GDP, and the jobs numbers. Earned a professional data scientist certification from *Datacamp*.
-- Serves as a resource for journalists, media, and the broader public. Cited as an expert in hundreds of press articles, with dozens of appearances on television, such as *CBS Sunday Morning* and *Washington Journal*. Writes for publications such as *The New York Times* and the *Washington Post*.
-
-**Fellow,** Roosevelt Institute, New York, NY \hfill 2010-2018
-
+- Director of Macroeconomic Analysis at the Roosevelt Institute, a policy think tank, leading our research and analysis on the recovery, full employment, and overall state of the economy. Supervises 4 researchers and staff in creating original research, meeting deliverables, and communicating economic arguments to the public. Regularly briefs legislators and policymakers.
 - Managed 3 multiyear research and policy teams, with projects on economic recovery, corporate governance, inequality, and creating new economic paradigms. Headed our policy work on financial reform, including the passage and implementation of the Dodd-Frank Act.
-- Written dozens of white papers, ranging from original research to public policy briefs. Edited four volumes of reports, three on financial reform and one on corporate sector reform. Co-authored, with Joseph Stiglitz, a book on economic inequality.
-- Designed, secured funding for, and carried out research supported by several institutions, including the Ewing Marion Kauffman Foundation, Ford Foundation, Hewlett Foundation, and Open Philanthropy Project.
+- Written dozens of white papers, ranging from original research to public policy briefs. Edited 4 volumes of reports, 3 on financial reform and 1 on corporate sector reform. Co-authored, with Joseph Stiglitz, a book on economic inequality. Professional R data scientist certification from *Datacamp*.
+- Designed, secured funding for, and carried out research supported by several institutions, including the Kauffman Foundation, Ford Foundation, Hewlett Foundation, and Open Philanthropy.
 
 **Financial Engineer,** Moody’s KMV, San Francisco, CA\hfill 2007 - 2009
 
@@ -47,8 +47,7 @@ urlcolor: blue
 
 **Senior Test Engineer,** Motorola, Schaumburg, IL \hfill 2001-2005
 
-- Directed the execution of performance, load, and stress testing in a box test unit across four major system releases of the iDEN phone network, using Python, Perl, and SQL. Awarded Motorola BRAVO Award (11/04) for “above and beyond performance contribution.”
-- Designed test cases to achieve Six Sigma quality levels. Trained 6 employees in the methods used for load and stress testing. Managed interns and contractors in executing test cycles.
+- Directed the execution of load and stress testing across four system releases of the iDEN phone network, coding with Python, Perl, and SQL. Designed test cases to achieve Six Sigma quality levels. Trained 6 employees in our methods used testing. Awarded Motorola BRAVO Award (11/04) for “above and beyond performance contribution.”
 
 # Education
 

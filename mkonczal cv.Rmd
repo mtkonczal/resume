@@ -28,7 +28,7 @@ urlcolor: blue
 
 - A leader on economic policymaking, guiding the debates around economic inequality, recessions and recoveries, and financial reform over the past decade.
 - A researcher contributing original empirical analysis on topics ranging from inflation metrics to banking regulations. Directed teams of researchers investigating the economic questions of the day.
-- A writer and public advocate who can translate and communicate to both experts and the public. Cited in hundreds of press articles, with dozens of media appearances, such as *CBS Sunday Morning* and *Washington Journal*. Published author who has written for publications such as *The New York Times* and the *Washington Post*.
+- A writer and public advocate who can translate and communicate to both experts and the public. Cited in 300 press articles, with over 50 media appearances, such as *CBS Sunday Morning* and *Washington Journal*. Published author who has written for publications such as *The New York Times* and the *Washington Post*.
 
 # Experience 
 

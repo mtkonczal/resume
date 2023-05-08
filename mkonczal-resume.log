@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 JAN 2023 09:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  2 MAY 2023 12:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -518,7 +518,7 @@ Package rerunfilecheck Info: File `mkonczal-resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  14141 strings out of 480608
- 205376 string characters out of 5903631
+ 205386 string characters out of 5903631
  494998 words of memory out of 5000000
  29727 multiletter control sequences out of 15000+600000
  561644 words of font info for 125 fonts, out of 8000000 for 9000
@@ -535,7 +535,7 @@ fb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr
 ocal/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2
 020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on mkonczal-resume.pdf (1 page, 99362 bytes).
+Output written on mkonczal-resume.pdf (1 page, 99391 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream

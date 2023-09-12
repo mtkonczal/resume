@@ -25,36 +25,71 @@ fontsize: 11pt
 urlcolor: blue
 ---
 \pagenumbering{gobble}
-# Career Highlights
+# Professional Summary
 
-- A leader on economic policymaking, guiding the debates around economic inequality, recessions and recoveries, and financial reform over the past decade.
-- A researcher contributing original empirical analysis on topics ranging from inflation metrics to banking regulations. Directed teams of researchers investigating the economic questions of the day.
-- A writer and public advocate who can translate and communicate to both experts and the public. Cited in 300 press articles, with over 50 media appearances, such as *CBS Sunday Morning* and *Washington Journal*. Published author who has written for publications such as *The New York Times* and the *Washington Post*.
+Accomplished researcher, writer, and public advocate skilled in bridging the gap between academic experts and the general public. Specializing in economic data analysis and policy research, I've been cited in over 300 press articles, testified before Congress four times, and made over 50 media appearances on platforms like *CBS Sunday Morning* and *Washington Journal*. My written work has been featured in esteemed publications such as *The New York Times* and *The Washington Post*.
 
 # Experience 
 
 **Director,** Roosevelt Institute, New York, NY \hfill 2010 - current
 
-- Director of Macroeconomic Analysis at the Roosevelt Institute, a policy think tank, leading our research and analysis on the recovery, full employment, and overall state of the economy. Supervises 4 researchers and staff in creating original research, meeting deliverables, and communicating economic arguments to the public. Regularly briefs legislators and policymakers.
-- Managed 3 multiyear research and policy teams, with projects on economic recovery, corporate governance, inequality, and creating new economic paradigms. Headed our policy work on financial reform, including the passage and implementation of the Dodd-Frank Act.
-- Written dozens of white papers, ranging from original research to public policy briefs. Edited 4 volumes of reports, 3 on financial reform and 1 on corporate sector reform. Co-authored, with Joseph Stiglitz, a book on economic inequality. Professional R data scientist certification from *Datacamp*.
-- Designed, secured funding for, and carried out research supported by several institutions, including the Kauffman Foundation, Ford Foundation, Hewlett Foundation, and Open Philanthropy.
+- **Lead in Macroeconomic Research:** Directs in-depth research and analysis on key economic issues, including inflation and full employment, shaping policy discussions at a leading think tank. Manages a team of researchers and staff to produce original research and meet key deliverables. Acts as a regular consultant to legislators and policymakers.
+
+- **Data Analysis:** Leverages R and Python to automate real-time data analysis, sourcing information from five major governmental databases. Authors regular briefings and white papers on current events to inform strategic decisions and develop talking points.
+
+- **Project Management:** Orchestrated four multi-year research and policy initiatives on pivotal topics such as the Dodd-Frank Act, the Great Recession, economic inequality, and evolving economic paradigms. Authored over 20 white papers and edited four comprehensive report volumes.
+
+- **Inequality and Economics Research:** Co-authored *Rewriting the Rules of the American Economy* (W.W. Norton, 2015), with Nobel laureate Joseph Stiglitz, summarizing the latest research in inequality and policy responses. Managed follow-up work exploring new economic paradigms.
+
+- **Financial Reform:** Led our work on financial reform going into the passage of the Dodd-Frank Act. Written and testified on capital requirements and other major financial reform priorities.
+
+- **Media Outreach:** Collaborated with the communications team to devise engagement strategies for promoting our projects. Served as a go-to expert on economic and policy issues for journalists and writers.
+
+- **Research Funding and Partnerships:** Successfully secured and managed research grants from prestigious organizations, including the Kauffman, Ford, and Hewlett Foundations, as well as Open Philanthropy.
 
 **Financial Engineer,** Moody’s KMV, San Francisco, CA\hfill 2007 - 2009
 
-- Created testing benchmarks for the Moody’s KMV Vasicek-Kealhofer credit risk model, built on a Black-Scholes-Merton framework. Worked with RiskFrontier software over 5 system releases, testing models of capital requirements, stress testing, and loss reserving.
-- Prototyped research algorithms covering options-based credit risk pricing in R, SAS, Matlab and Excel VB. Automated the collection and analysis of data that reduced test execution time by 40 percent. Assisted with support to clients.
+- **Risk Modeling:** Developed testing benchmarks for Moody’s KMV credit risk model, recognized as the 2006 "Top Provider in Trading and Banking" by Risk Magazine. Collaborated on five system releases of RiskFrontier software, developing test cases and acceptance criteria for cutting-edge credit risk modeling algorithms.
+
+- **Finance Theory:** Actively participated in discussions on various approaches to credit risk modeling, focusing on the Vasicek-Kealhofer (VK) model derived from the Black-Scholes-Merton framework. Contributed to debates on capital requirements and loss reserving.
+
+- **Algorithm Development:** Prototyped research algorithms using R, SAS, Matlab, and Excel VB to replicate results. Designed and implemented a system that automated the collection, storage, and analysis of significant data sets across four releases, reducing test execution time by 40 percent.
 
 **Senior Test Engineer,** Motorola, Schaumburg, IL \hfill 2001-2005
 
-- Directed the execution of load and stress testing across four system releases of the iDEN phone network, coding with Python, Perl, and SQL. Designed test cases to achieve Six Sigma quality levels. Trained 6 employees in our methods used testing. Awarded Motorola BRAVO Award (11/04) for “above and beyond performance contribution.”
+- **Performance Testing**: Directed performance, load, and stress testing across four major iDEN system releases, earning a Motorola BRAVO Award for "above and beyond performance contribution." Implemented automated data collection and initial analysis to enhance testing efficiency using Perl, Python, and MySQL.
+
+- **Quality Assurance and Team Leadership**: Designed Six Sigma-level test cases based on mathematical models of consumer behavior and trained six employees in testing methods. Coordinated testing cycles across divisions and managed interns and contractors in execution and reporting.
 
 # Education
 
 **M.S. Finance, University of Illinois at Urbana-Champaign** \hfill 2007
 
-- Completed PhD-level coursework in microeconomics, econometrics, and empirical finance.
+- Conducted advanced research in finance, including data analysis and hypothesis testing on large datasets like Compustat, using R and SAS.
+
+- Completed rigorous coursework in the graduate-level economics sequence, covering microeconomics, macroeconomics, and econometrics.
+
+- Developed and implemented algorithms for option valuation, including binomial tree, Monte Carlo, and finite difference methods, using C++.
+
+- Served as a Teaching Assistant for Calculus I, responsible for designing quizzes, administering exams, and delivering lectures.
 
 **B.A. Mathematics and Computer Science, University of Illinois at Urbana-Champaign** \hfill 2001
+
+- Focused coursework in Probability, Statistics, Data Structures, Graph Theory, Numerical Methods, and Nonlinear Programming.
+
+# Media Appearances and Writings
+
+## Quotes and Media Mentions##
+- Highly experienced in media engagement, cited in over 300 articles and media references.
+- Top Outlets: _New York Times_ (32), _Washington Post_ (23), _Vox_ (21), _Bloomberg_ (10), _Business Insider_ (9), and more.
+
+## Published Writing
+- Contributed articles to various prestigious publications, including but not limited to: _The Nation_ (19 articles), _Dissent_ (7), _Vox_ (6), _Boston Review_ (5), and the _New York Times_ (2).
+- Authored the financial blog _Rortybomb_, recognized as one of _Time_ magazine's "25 Best Financial Blogs" in 2011.
+- Published the book _Freedom From the Market_ (New Press, 2021), highlighted as a "Summer Book of 2021" in the economics category by the _Financial Times_. Reviews include: _Democracy Journal_, _Foreign Policy_, _Foreign Affairs_, _Wall Street Journal_, and _National Review_.
+
+## Media Appearances
+- Garnered significant media presence with over 25 podcast appearances and 15 TV interviews, and amassed a following of over 48,000 on Twitter.
+- Notable Appearances: _The Weeds_ podcast (4 times), _Planet Money_ (3), _Washington Journal_ (2), _CNBC_ (2), _CBS Sunday Morning_, and _The Rachel Maddow Show_.
 
 _Full C.V. available upon request._

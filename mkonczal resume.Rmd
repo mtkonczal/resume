@@ -24,7 +24,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 urlcolor: blue
 ---
-\pagenumbering{gobble}
+\pagenumbering{arabic}
 # Professional Summary
 
 Accomplished researcher, writer, and public advocate skilled in bridging the gap between academic experts and the general public. Specializing in economic data analysis and policy research, I've been cited in over 300 press articles, testified before Congress four times, and made over 50 media appearances on platforms like *CBS Sunday Morning* and *Washington Journal*. My written work has been featured in esteemed publications such as *The New York Times* and *The Washington Post*.

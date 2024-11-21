@@ -5,13 +5,13 @@ output:
     template: cv-latex.tex
 geometry: margin=.7in
 
-title: "cv"
+title: "Resume"
 author: Mike Konczal
 
 fontawesome: yes
 email: konczal@gmail.com
 github: mtkonczal
-web: mikekonczal.com
+web: www.mikekonczal.com
 twitter: mtkonczal
 city_name: Takoma Park, MD
 #phone: "+1 234 567 8999"
@@ -27,51 +27,49 @@ urlcolor: blue
 \pagenumbering{arabic}
 # Professional Summary
 
-Accomplished researcher, writer, and public advocate skilled in bridging the gap between academic experts and the general public. Specializing in economic data analysis and policy research, I've been cited in over 300 press articles, testified before Congress four times, and made over 50 media appearances on platforms like *CBS Sunday Morning* and *Washington Journal*. My written work has been featured in esteemed publications such as *The New York Times* and *The Washington Post*.
+Accomplished researcher, writer, and advocate skilled in economic data and policy analysis. I have been cited in over 300 press articles, testified before Congress four times, and made over 50 media appearances on platforms like *CBS Sunday Morning* and *Washington Journal*. My written work has been featured in esteemed publications such as *The New York Times* and *The Washington Post*.
 
 # Experience 
 
-**Director,** Roosevelt Institute, New York, NY \hfill 2010 - current
+**Special Assistant to the President for Economic Policy,** White House, Washington DC \hfill 2024
 
-- **Lead in Macroeconomic Research:** Directs in-depth research and analysis on key economic issues, including inflation and full employment, shaping policy discussions at a leading think tank. Manages a team of researchers and staff to produce original research and meet key deliverables. Acts as a regular consultant to legislators and policymakers.
+- Developed strategic arguments for the President’s economic policy agenda, in close consultation with colleagues at the Treasury Department and the Council of Economic Advisers.
 
-- **Data Analysis:** Leverages R and Python to automate real-time data analysis, sourcing information from five major governmental databases. Authors regular briefings and white papers on current events to inform strategic decisions and develop talking points.
+- Led the formulation of the White House’s messaging following all macroeconomic data releases, including themes, statements, charts, and talking points. Tracked the process for data releases, created internal NEC measures, and directed rapid analyses and responses on indicators.
 
-- **Project Management:** Orchestrated four multi-year research and policy initiatives on pivotal topics such as the Dodd-Frank Act, the Great Recession, economic inequality, and evolving economic paradigms. Authored over 20 white papers and edited four comprehensive report volumes.
+- Provided ongoing analysis for the National Economic Advisor and support for NEC Deputy Director for fiscal and macro policy, including on tax, budget, and housing policy.
 
-- **Inequality and Economics Research:** Co-authored *Rewriting the Rules of the American Economy* (W.W. Norton, 2015), with Nobel laureate Joseph Stiglitz, summarizing the latest research in inequality and policy responses. Managed follow-up work exploring new economic paradigms.
+- Amplified the economic messaging of the White House and National Economic Advisor, via speechwriting, content development, and media interaction. Regularly engaged external economic validators, experts, reporters, and academics on economic data as well as the President’s agenda.
 
-- **Financial Reform:** Led our work on financial reform going into the passage of the Dodd-Frank Act. Written and testified on capital requirements and other major financial reform priorities.
+**Director,** Roosevelt Institute, New York, NY \hfill 2010 - 2023
 
-- **Media Outreach:** Collaborated with the communications team to devise engagement strategies for promoting our projects. Served as a go-to expert on economic and policy issues for journalists and writers.
+- Directed the macroeconomic research team, providing original research on key economic issues, including inflation, growth, and employment, at a leading think tank. Served as a go-to expert on economic and policy issues for journalists and policymakers.
 
-- **Research Funding and Partnerships:** Successfully secured and managed research grants from prestigious organizations, including the Kauffman, Ford, and Hewlett Foundations, as well as Open Philanthropy.
+- Authored over 20 white papers and edited four comprehensive report volumes. Automated real-time data analysis with R and Python across major data releases. Collaborated with the communications team to devise engagement strategies for our projects, and government relations to work with elected officials and other policymakers.
+
+- Orchestrated four multi-year research and policy initiatives as an expert on topics including the Dodd-Frank Act, the Great Recession, economic inequality, and evolving economic paradigms. Managed teams of two internal researchers and three external fellows.
+
+- Successfully secured and managed research grants from organizations such as the Kauffman, Ford, and Hewlett Foundations, as well as Open Philanthropy.
 
 **Financial Engineer,** Moody’s KMV, San Francisco, CA\hfill 2007 - 2009
 
-- **Risk Modeling:** Developed testing benchmarks for Moody’s KMV credit risk model, recognized as the 2006 "Top Provider in Trading and Banking" by Risk Magazine. Collaborated on five system releases of RiskFrontier software, developing test cases and acceptance criteria for cutting-edge credit risk modeling algorithms.
+- Developed testing benchmarks for Moody’s KMV credit risk model, recognized as the 2006 "Top Provider in Trading and Banking" by Risk Magazine. Collaborated on five system releases of RiskFrontier software, developing test cases and acceptance criteria for cutting-edge credit risk modeling algorithms.
 
-- **Finance Theory:** Actively participated in discussions on various approaches to credit risk modeling, focusing on the Vasicek-Kealhofer (VK) model derived from the Black-Scholes-Merton framework. Contributed to debates on capital requirements and loss reserving.
+- Actively participated in discussions on various approaches to credit risk modeling, focusing on the Vasicek-Kealhofer (VK) model derived from the Black-Scholes-Merton framework. Contributed to debates on capital requirements and loss reserving.
 
-- **Algorithm Development:** Prototyped research algorithms using R, SAS, Matlab, and Excel VB to replicate results. Designed and implemented a system that automated the collection, storage, and analysis of significant data sets across four releases, reducing test execution time by 40 percent.
+- Prototyped research algorithms using R, SAS, Matlab, and Excel VB to replicate results. Designed and implemented a system that automated the collection, storage, and analysis of significant data sets across four releases, reducing test execution time by 40 percent.
 
 **Senior Test Engineer,** Motorola, Schaumburg, IL \hfill 2001-2005
 
-- **Performance Testing**: Directed performance, load, and stress testing across four major iDEN system releases, earning a Motorola BRAVO Award for "above and beyond performance contribution." Implemented automated data collection and initial analysis to enhance testing efficiency using Perl, Python, and MySQL.
-
-- **Quality Assurance and Team Leadership**: Designed Six Sigma-level test cases based on mathematical models of consumer behavior and trained six employees in testing methods. Coordinated testing cycles across divisions and managed interns and contractors in execution and reporting.
+- Directed performance, load, and stress testing across four major iDEN system releases, earning a Motorola BRAVO Award for "above and beyond performance contribution." Designed automated Six Sigma-level test cases using Perl, Python, and MySQL based on models of consumer behavior. Trained six employees in testing methods.
 
 # Education
 
 **M.S. Finance, University of Illinois at Urbana-Champaign** \hfill 2007
 
-- Conducted advanced research in finance, including data analysis and hypothesis testing on large datasets like Compustat, using R and SAS.
+- Completed coursework in the graduate-level economics sequence, covering microeconomics, macroeconomics, and econometrics.
 
-- Completed rigorous coursework in the graduate-level economics sequence, covering microeconomics, macroeconomics, and econometrics.
-
-- Developed and implemented algorithms for option valuation, including binomial tree, Monte Carlo, and finite difference methods, using C++.
-
-- Served as a Teaching Assistant for Calculus I, responsible for designing quizzes, administering exams, and delivering lectures.
+- Conducted advanced research in finance, including research replication on large data sets like Compustat, using R and SAS. Modeled option valuation using binomial tree, Monte Carlo, and finite difference methods in C++.
 
 **B.A. Mathematics and Computer Science, University of Illinois at Urbana-Champaign** \hfill 2001
 
@@ -84,12 +82,12 @@ Accomplished researcher, writer, and public advocate skilled in bridging the gap
 - Top Outlets: _New York Times_ (32), _Washington Post_ (23), _Vox_ (21), _Bloomberg_ (10), _Business Insider_ (9), and more.
 
 ## Published Writing
-- Contributed articles to various prestigious publications, including but not limited to: _The Nation_ (19 articles), _Dissent_ (7), _Vox_ (6), _Boston Review_ (5), and the _New York Times_ (2).
-- Authored the financial blog _Rortybomb_, recognized as one of _Time_ magazine's "25 Best Financial Blogs" in 2011.
+- Contributed articles to many publications, including but not limited to: _The Nation_ (19 articles), _Dissent_ (7), _Vox_ (6), _Boston Review_ (5), and the _New York Times_ (2).
 - Published the book _Freedom From the Market_ (New Press, 2021), highlighted as a "Summer Book of 2021" in the economics category by the _Financial Times_. Reviews include: _Democracy Journal_, _Foreign Policy_, _Foreign Affairs_, _Wall Street Journal_, and _National Review_.
+- Co-authored *Rewriting the Rules of the American Economy* (W.W. Norton, 2015), with Nobel laureate Joseph Stiglitz, summarizing the latest research in inequality.
 
 ## Media Appearances
-- Garnered significant media presence with over 25 podcast appearances and 15 TV interviews, and amassed a following of over 48,000 on Twitter.
+- Garnered significant media presence with over 25 podcast appearances and 15 TV interviews, and amassed a following of over 50,000 on Twitter.
 - Notable Appearances: _The Weeds_ podcast (4 times), _Planet Money_ (3), _Washington Journal_ (2), _CNBC_ (2), _CBS Sunday Morning_, and _The Rachel Maddow Show_.
 
 \newpage

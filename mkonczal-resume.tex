@@ -1,0 +1,322 @@
+\documentclass[11pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=.7in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\bfseries\Large}
+\subsectionfont{\rmfamily\mdseries\normalsize\itshape}
+
+\usepackage[usenames, dvipsnames]{color}
+\definecolor{mygray}{gray}{0.6}
+
+\usepackage[explicit]{titlesec}% http://ctan.org/pkg/titlesec
+\def\Vhrulefill{\leavevmode\leaders\hrule height 0.0ex depth \dimexpr 0.3pt-0.0ex\hfill\kern0pt} %change both #.#ex to change height
+\titleformat{\section}{\bfseries\Large}{}{0pt}{#1~\color{mygray}\Vhrulefill}
+%\titleformat{\section}{\bfseries\Large}{}{0pt}{\noindent\Vhrulefill~#1~\Vhrulefill}
+
+% Make lists without bullets
+%\renewenvironment{itemize}{
+%  \begin{list}{}{
+%    \setlength{\leftmargin}{1.5em}
+%  }
+%}{
+%  \end{list}
+%}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+%\lfoot{
+%\cfoot{\scriptsize  Mike Konczal - Resume -  }}
+%\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Mike Konczal:  Resume (Curriculum Vitae)},
+            pdfauthor={Mike Konczal},
+            pdfkeywords={R Markdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=Maroon,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+\begin{document}
+
+
+\centerline{\huge \bf Mike Konczal}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+%job title
+
+%address
+
+\moveleft.5\hoffset\centerline{ 
+%email
+\faEnvelopeO \hspace{1 mm} \href{mailto:}{\color{black} \href{mailto:konczal@gmail.com}{\nolinkurl{konczal@gmail.com}}} \hspace{1 mm}
+%website
+\faGlobe \hspace{1 mm} \href{http://www.mikekonczal.com}{\tt www.mikekonczal.com} \hspace{1 mm}
+%github
+\faGithub \hspace{1 mm} \href{http://github.com/mtkonczal}{\color{black} mtkonczal} \hspace{1 mm}   
+%twitter
+\faTwitter \hspace{1 mm} \href{http://twitter.com/mtkonczal}{\color{black} mtkonczal} \hspace{1 mm}   
+%address
+\faMapPin \hspace{1 mm} \color{black} Takoma Park, MD \hspace{1 mm}   
+%phone
+ 
+ 
+}
+
+
+\vspace{2 mm}
+
+\hrule
+
+
+\pagenumbering{arabic}
+
+\section{Professional Summary}\label{professional-summary}
+
+Accomplished researcher, writer, and advocate skilled in economic data
+and policy analysis. I have been cited in over 300 press articles,
+testified before Congress four times, and made over 50 media appearances
+on platforms like \emph{CBS Sunday Morning} and \emph{Washington
+Journal}. My written work has been featured in esteemed publications
+such as \emph{The New York Times} and \emph{The Washington Post}.
+
+\section{Experience}\label{experience}
+
+\textbf{Chief Economist and Special Assistant to the President for
+Economic Policy,} White House National Economic Council, Washington DC
+\hfill 2024
+
+\begin{itemize}
+\item
+  Provided ongoing economic analysis for the National Economic Advisor
+  and support for NEC Deputy Director for fiscal and macroeconomic
+  policy, including on inflation, growth, employment, tax, budget, and
+  housing policy.
+\item
+  Developed strategic arguments for the President's economic policy
+  agenda, in close consultation with colleagues at the Treasury
+  Department and the Council of Economic Advisers.
+\item
+  Led the formulation of the White House's messaging following all
+  macroeconomic data releases, including themes, statements, charts, and
+  talking points. Tracked the process for data releases, created
+  internal NEC measures, and directed rapid analyses and responses on
+  indicators.
+\item
+  Amplified the economic messaging of the White House and National
+  Economic Advisor, via speechwriting, content development, and media
+  interaction. Regularly engaged external economic validators, experts,
+  reporters, and academics on economic data as well as the President's
+  agenda.
+\item
+  Favorably adjudicated Tier 5 investigation; Top Secret/Sensitive
+  Compartmented Information (TS/SCI) clearance granted.
+\end{itemize}
+
+\textbf{Director,} Roosevelt Institute, New York, NY \hfill 2010 - 2023
+
+\begin{itemize}
+\item
+  Directed the macroeconomic research team, providing original research
+  on key economic issues, including inflation, growth, and employment,
+  at a leading think tank. Served as a go-to expert on economic and
+  policy issues for journalists and policymakers.
+\item
+  Authored over 20 white papers and edited four comprehensive report
+  volumes. Automated real-time data analysis with R and Python across
+  major data releases. Collaborated with the communications team to
+  devise engagement strategies for our projects, and government
+  relations to work with elected officials and other policymakers.
+\item
+  Orchestrated four multi-year research and policy initiatives as an
+  expert on topics including the Dodd-Frank Act, the Great Recession,
+  economic inequality, and evolving economic paradigms. Managed teams of
+  two internal researchers and three external fellows.
+\item
+  Successfully secured and managed research grants from organizations
+  such as the Kauffman, Ford, and Hewlett Foundations, as well as Open
+  Philanthropy.
+\end{itemize}
+
+\textbf{Financial Engineer,} Moody's KMV, San Francisco, CA\hfill 2007 -
+2009
+
+\begin{itemize}
+\item
+  Developed testing benchmarks for Moody's KMV credit risk model,
+  recognized as the 2006 ``Top Provider in Trading and Banking'' by Risk
+  Magazine. Collaborated on five system releases of RiskFrontier
+  software, developing test cases and acceptance criteria for
+  cutting-edge credit risk modeling algorithms.
+\item
+  Actively participated in discussions on various approaches to credit
+  risk modeling, focusing on the Vasicek-Kealhofer (VK) model derived
+  from the Black-Scholes-Merton framework. Contributed to debates on
+  capital requirements and loss reserving.
+\item
+  Prototyped research algorithms using R, SAS, Matlab, and Excel VB to
+  replicate results. Designed and implemented a system that automated
+  the collection, storage, and analysis of significant data sets across
+  four releases, reducing test execution time by 40 percent.
+\end{itemize}
+
+\textbf{Senior Test Engineer,} Motorola, Schaumburg, IL \hfill 2001-2005
+
+\begin{itemize}
+\tightlist
+\item
+  Directed performance, load, and stress testing across four major iDEN
+  system releases, earning a Motorola BRAVO Award for ``above and beyond
+  performance contribution.'' Designed automated Six Sigma-level test
+  cases using Perl, Python, and MySQL based on models of consumer
+  behavior. Trained six employees in testing methods.
+\end{itemize}
+
+\section{Education}\label{education}
+
+\textbf{M.S. Finance, University of Illinois at Urbana-Champaign}
+\hfill 2007
+
+\begin{itemize}
+\item
+  Completed coursework in the graduate-level economics sequence,
+  covering microeconomics, macroeconomics, and econometrics.
+\item
+  Conducted advanced research in finance, including research replication
+  on large data sets like Compustat, using R and SAS. Modeled option
+  valuation using binomial tree, Monte Carlo, and finite difference
+  methods in C++.
+\end{itemize}
+
+\textbf{B.A. Mathematics and Computer Science, University of Illinois at
+Urbana-Champaign} \hfill 2001
+
+\begin{itemize}
+\tightlist
+\item
+  Focused coursework in Probability, Statistics, Data Structures, Graph
+  Theory, Numerical Methods, and Nonlinear Programming.
+\end{itemize}
+
+\section{Media Appearances and
+Writings}\label{media-appearances-and-writings}
+
+\subsection{Quotes and Media Mentions}\label{quotes-and-media-mentions}
+
+\begin{itemize}
+\tightlist
+\item
+  Highly experienced in media engagement, cited in over 300 articles and
+  media references.
+\item
+  Top Outlets: \emph{New York Times} (32), \emph{Washington Post} (23),
+  \emph{Vox} (21), \emph{Bloomberg} (10), \emph{Business Insider} (9),
+  and more.
+\end{itemize}
+
+\subsection{Published Writing}\label{published-writing}
+
+\begin{itemize}
+\tightlist
+\item
+  Contributed articles to many publications, including but not limited
+  to: \emph{The Nation} (19 articles), \emph{Dissent} (7), \emph{Vox}
+  (6), \emph{Boston Review} (5), and the \emph{New York Times} (2).
+\item
+  Published the book \emph{Freedom From the Market} (New Press, 2021),
+  highlighted as a ``Summer Book of 2021'' in the economics category by
+  the \emph{Financial Times}. Reviews include: \emph{Democracy Journal},
+  \emph{Foreign Policy}, \emph{Foreign Affairs}, \emph{Wall Street
+  Journal}, and \emph{National Review}.
+\item
+  Co-authored \emph{Rewriting the Rules of the American Economy} (W.W.
+  Norton, 2015), with Nobel laureate Joseph Stiglitz, summarizing the
+  latest research in inequality.
+\end{itemize}
+
+\subsection{Media Appearances}\label{media-appearances}
+
+\begin{itemize}
+\tightlist
+\item
+  Garnered significant media presence with over 25 podcast appearances
+  and 15 TV interviews, and amassed a following of over 50,000 on
+  Twitter.
+\item
+  Notable Appearances: \emph{The Weeds} podcast (4 times), \emph{Planet
+  Money} (3), \emph{Washington Journal} (2), \emph{CNBC} (2), \emph{CBS
+  Sunday Morning}, and \emph{The Rachel Maddow Show}.
+\end{itemize}
+
+\emph{Full C.V. available upon request.}
+
+\end{document}
